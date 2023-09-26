@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hunterthecoder96
+- 👋 Hi, I’m Hunter Skolnick
 - 👀 I’m interested in ... coding and sunlight
 - 🌱 I’m currently learning ... web development at VSchool
 - 💞️ I’m looking to collaborate on ...
