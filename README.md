@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hunter Skolnick
 - 👀 I’m interested in ... coding and sunlight
 - 🌱 I’m currently learning ... web development at VSchool
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Front end development fullstack development
 - 📫 How to reach me ... email: jhskolnick100@gmail.com    
 
 <!---
